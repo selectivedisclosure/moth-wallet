@@ -4941,12 +4941,12 @@ __metadata:
   linkType: hard
 
 "effect@npm:^3.19.19, effect@npm:^3.20.0":
-  version: 3.21.4
-  resolution: "effect@npm:3.21.4"
+  version: 3.22.5
+  resolution: "effect@npm:3.22.5"
   dependencies:
     "@standard-schema/spec": "npm:^1.0.0"
     fast-check: "npm:^3.23.1"
-  checksum: 10c0/62f676a7e06187e978688b4943a86c827cdd75b8701c5cb783d2e5cc9e85d7ab6ac631c3d5f3abe67c706e455fabca615cddca19a969a5dd414947f982b2ba1a
+  checksum: 10c0/afa7bcf16087e50bdec37334376a396f6515ab4a5045841f88bd16fec5848de8e531f83d91dc3282fb109419660b40e50cacfbe3f06d6e449c02182f7f1f9578
   languageName: node
   linkType: hard
 
